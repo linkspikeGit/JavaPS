@@ -60,7 +60,7 @@ public class Palindromo {
                 System.out.println("Esta frase o palabra: (" + fDepurada + ") no es un Palindromo");
             }
         }
-
+        scanner.close();
 
     }
 

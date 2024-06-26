@@ -26,7 +26,7 @@ public class ConvertidorDivisa {
 
         System.out.println("El valor actual de los $"+pesos+" pesos ingresados es: "+dolares+" dolares");
 
-
+        Escan.close();
 
 
     }
